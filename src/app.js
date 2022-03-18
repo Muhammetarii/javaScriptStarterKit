@@ -10,5 +10,7 @@ for (let i = 0;i<konutKredileri.length;i++){
     console.log("<li>"+i+"</li>")
 }
 
+console.log(konutKredileri)
+
 
 
